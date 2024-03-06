@@ -18,5 +18,7 @@ public class QuatroOperacoes {
         System.out.println("Multplicação: " + num1 + " x " + num2 + " = " + multiplicacao);
         System.out.println("Divisão: " + num1 + " / " + num2 + " = " + divisao);
 
+        sc.close();
+
     }
 }
