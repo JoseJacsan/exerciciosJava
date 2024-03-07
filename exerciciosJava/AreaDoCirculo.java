@@ -1,5 +1,4 @@
 package exerciciosJava;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class AreaDoCirculo {
